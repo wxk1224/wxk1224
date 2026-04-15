@@ -1,10 +1,10 @@
-## About Me
-- **Name:** Xiangkai Wang
-- **Email:** xiangkaiwang1224@gmail.com
-- **Major:** Artificial Intelligence
-- **Interests:** Brain-Computer Interface, Motor Imagery EEG, Biomedical AI
+## 📌 About Me
+- 🧑🏻‍💻**Name:** Xiangkai Wang
+- ✉️**Email:** xiangkaiwang1224@gmail.com
+- 📚**Major:** Artificial Intelligence
+- 💡**Interests:** Brain-Computer Interface, Motor Imagery EEG, Biomedical AI
 
-## Skills
+## 🔑 Skills
 - **Programming Languages:** Python, C, JavaScript
 - **Core Areas:**
   - Deep Learning
